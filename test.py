@@ -1,1 +1,1 @@
-print "HellPHP"
+print "HellPython"
