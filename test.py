@@ -1,1 +1,1 @@
-print "HellPython"
+print "BuyPython"
