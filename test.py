@@ -1,1 +1,1 @@
-print "BuyPython"
+print "GitLog"
